@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sao-joao",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3d291dca-1524-4744-a042-1ff32b38e1d3",
+			"database_name": "saojoao-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
